@@ -2,4 +2,4 @@
 !*.zshrc
 !*.bashrc
 !.gitignore
-!.config
+!.config*
